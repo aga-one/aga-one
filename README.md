@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Andrei</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1><h3 align="center">Regular human from the Earth</h3>
+<h1 align="center">Hi there, I'm Andrei</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1><h3 align="center">Regular human from the planet Earth, searching for peace and harmony <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h3>
 
 
 <!--
