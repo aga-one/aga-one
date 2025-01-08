@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Andrei</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1><h3 align="center">Regular human from the planet Earth, searching for peace and harmony <img src="pacific.png" height="32"/></h3>
+<h1 align="center">Hi there, I'm Andrei</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1><h3 align="center">Regular human from the planet Earth, searching for peace and harmony <img src="icons8-peace-symbol-64.png" height="32"/></h3>
 
 
 <!--
@@ -17,3 +17,52 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_blank" href="https://icons8.com/icon/5UzBcr03XFXG/peace-symbol">Peace Symbol</a> иконка от <a target="_blank" href="https://icons8.com">Icons8</a>
